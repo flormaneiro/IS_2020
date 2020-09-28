@@ -21,7 +21,7 @@ Descargar el proyecto git en ambiente local, en Git Bash:
 
 ## Tecnologías
 * [Markdown](https://markdown.es/)
-* [GitHub](Pages https://pages.github.com/)
+* [GitHub Pages](https://pages.github.com/)
 * [Jekyll](https://jekyllrb.com/docs/installation/)
 * [Bundler](https://bundler.io/)
 
