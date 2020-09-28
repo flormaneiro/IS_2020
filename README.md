@@ -83,6 +83,8 @@ Para llenar la base de datos se deben correr los scripts que están en la carpet
 [CM](https://drive.google.com/open?id=1FNZn3xurF6GYh08cKGkvicjcAAHWRhoOqu8YjAiLYoY)
 
 
+https://jekyllrb.com/docs/usage/
+
 
 
 
