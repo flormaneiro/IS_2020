@@ -9,7 +9,7 @@ Con el gestor de paquetes de la distribución de linux utilizada, instalar el si
 * [Git](https://git-scm.com/downloads)
 * [Jekyll](https://jekyllrb.com/docs/installation/)
 * [Bundler](https://bundler.io/)
-* Git Bash o  [GitHub Desktop](https://desktop.github.com/)
+* [GitHub Desktop](https://desktop.github.com/)
 * Editor markdown ???
 
 ### Instalación
