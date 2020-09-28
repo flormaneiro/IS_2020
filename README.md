@@ -6,10 +6,10 @@ Pagina web de "Ingenieria de software" de UCEL
 
 ### Prerequisitos
 Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
-* Git
-* Jekyll 
-* Bundler
-* Git Bash / GitHub Desktop 
+* [Git] (https://git-scm.com/downloads)
+* [Jekyll] (https://jekyllrb.com/docs/installation/)
+* [Bundler] (https://bundler.io/)
+* Git Bash o  [GitHub Desktop] (https://desktop.github.com/)
 * Editor markdown ???
 
 ### Instalación
