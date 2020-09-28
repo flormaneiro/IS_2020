@@ -8,7 +8,7 @@ Pagina web de "Ingenieria de software" de UCEL
 Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
 * [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#setting-up-git). Check on Git Bash `git --version`
 * [GitHub Desktop](https://desktop.github.com/)
-* [Markdownpad](http://markdownpad.com) o [Typora](https://typora.io/)
+* [Editores-markdown](https://markdown.es/editores-markdown/#Editores_Markdown_para_Windows)
 
 ### Instalación
 Descargar el proyecto git en ambiente local, en Git Bash:
