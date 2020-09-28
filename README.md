@@ -2,35 +2,19 @@
 # IS_UCEL
 Pagina web de "Ingenieria de software" de UCEL
 
-## Getting Started
+## Empezando
 
 ### Prerequisitos
 Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
-* [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#setting-up-git).
-* [Jekyll](https://jekyllrb.com/docs/installation/)
-* [Bundler](https://bundler.io/)
+* [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#setting-up-git). Check on Git Bash `git --version`
 * [GitHub Desktop](https://desktop.github.com/)
-* Editor markdown ???
-
-### Check Prerequisitos
-Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
-* **Git:** on Git Bash `git --version`
-* **Jekyll** on CMD `jekyll -v`
-* [Bundler](https://bundler.io/)
-* [GitHub Desktop](https://desktop.github.com/)
-* Editor markdown ???
+* [Typora](https://typora.io/)
 
 ### Instalación
 
-Descargar y copiar el settings.xml (url:https://drive.google.com/open?id=1_yxU0RAisAHyKONpN7n9LC3i51MrW0ZD) en /home/<USUARIO>/.m2/ 
+Descargar el proyecto git en ambiente local:
+	- git clone https://github.com/flormaneiro/IS_2020.git 
 
-Para levantar el ambiente local:
-
-	- git clone <repo> 
-	- cd cesig-server-main 
-	- mvn clean install -Dmaven.test.skip=true 
-	- cd cesig-main-project/cesig-service/src 
-	- mvn -Dspring.profiles.active=local spring-boot:run
 
 Probar: http://localhost:9021/cesig/swagger-ui.html
 
@@ -88,3 +72,7 @@ https://jekyllrb.com/docs/usage/
 
 
 
+* [Jekyll](https://jekyllrb.com/docs/installation/)
+* [Bundler](https://bundler.io/)
+* **Jekyll** on CMD `jekyll -v`
+* [Bundler](https://bundler.io/)
