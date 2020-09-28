@@ -12,7 +12,7 @@ Con el gestor de paquetes de la distribución de linux utilizada, instalar el si
 
 ### Instalación
 Descargar el proyecto git en ambiente local, en Git Bash:
-	- git clone https://github.com/flormaneiro/IS_2020.git 
+	-  `git clone https://github.com/flormaneiro/IS_2020.git` 
 
 
 
