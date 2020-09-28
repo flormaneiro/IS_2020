@@ -17,7 +17,7 @@ Descargar el proyecto git en ambiente local, en Git Bash:
 
 
 ## Despliegue
- - A confirmar renderizado de markdown-
+ Previsualización html con editor markdown seleccionado
 
 ## Tecnologías
 * [Markdown](https://markdown.es/)
