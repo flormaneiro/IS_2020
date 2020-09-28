@@ -27,7 +27,7 @@ Descargar el proyecto git en ambiente local, en Git Bash:
 * [Bundler](https://bundler.io/)
 
 ## Entornos
-* Producción: https://flormaneiro.github.io/IS_2020/
+* Producción: https://flormaneiro.github.io/IS_2020.github.io/
 
 ## Links Útiles
 * https://jekyllthemes.io/free
