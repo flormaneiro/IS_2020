@@ -6,11 +6,11 @@ Pagina web de "Ingenieria de software" de UCEL
 
 ### Prerequisitos
 Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
-* Maven 3.5+
-* Java 8 (OpenJDK)
-* Eclipse + PlugIn Spring Tool Suite 4 Main Feature
-* Visual Studio
-
+* Git
+* Jekyll 
+* Bundler
+* Git Bash / GitHub Desktop 
+* Editor markdown ???
 
 ### Instalación
 
