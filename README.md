@@ -7,11 +7,15 @@ Pagina web de "Ingenieria de software" de UCEL
 ### Prerequisitos
 Con el gestor de paquetes de la distribución de linux utilizada, instalar el siguiente software:
 * [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git#setting-up-git)	
-	- check GitBash: git --version
 * [Jekyll](https://jekyllrb.com/docs/installation/)
 * [Bundler](https://bundler.io/)
 * [GitHub Desktop](https://desktop.github.com/)
 * Editor markdown ???
+
+### Check Prerequisitos
+* Git: check GitBash: 
+	- git --version
+
 
 ### Instalación
 
